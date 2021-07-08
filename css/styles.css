@@ -1,5 +1,5 @@
-#folio {
-    display: flex;
+#folio {  
+    display: flex; /* Este display hace que la disposición de la información se adapte al tamaño de la ventana, cuando se engrandece o empequeñece, tipo responsive */
     flex-direction: row;
     flex-wrap: wrap;
 }
